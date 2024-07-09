@@ -16,7 +16,8 @@ int main() {
     int right_half = 12;
     int score_1 = 0;
     int score_2 = 0;
-
+    printf("press enter");
+    
     while (1) {
         int step = position();
 
